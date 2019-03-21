@@ -1,0 +1,11 @@
+/home/connor/RiderProjects/SINChecker/SINChecker/obj/Debug/netcoreapp2.2/SINChecker.csprojAssemblyReference.cache
+/home/connor/RiderProjects/SINChecker/SINChecker/obj/Debug/netcoreapp2.2/SINChecker.csproj.CoreCompileInputs.cache
+/home/connor/RiderProjects/SINChecker/SINChecker/obj/Debug/netcoreapp2.2/SINChecker.AssemblyInfoInputs.cache
+/home/connor/RiderProjects/SINChecker/SINChecker/obj/Debug/netcoreapp2.2/SINChecker.AssemblyInfo.cs
+/home/connor/RiderProjects/SINChecker/SINChecker/bin/Debug/netcoreapp2.2/SINChecker.deps.json
+/home/connor/RiderProjects/SINChecker/SINChecker/bin/Debug/netcoreapp2.2/SINChecker.runtimeconfig.json
+/home/connor/RiderProjects/SINChecker/SINChecker/bin/Debug/netcoreapp2.2/SINChecker.runtimeconfig.dev.json
+/home/connor/RiderProjects/SINChecker/SINChecker/bin/Debug/netcoreapp2.2/SINChecker.dll
+/home/connor/RiderProjects/SINChecker/SINChecker/bin/Debug/netcoreapp2.2/SINChecker.pdb
+/home/connor/RiderProjects/SINChecker/SINChecker/obj/Debug/netcoreapp2.2/SINChecker.dll
+/home/connor/RiderProjects/SINChecker/SINChecker/obj/Debug/netcoreapp2.2/SINChecker.pdb
